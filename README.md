@@ -4,7 +4,7 @@
 
 #### By _**Andrea Chiotti and Epicodus**_
 
-##Description
+## Description
 
 _This is a project that was made for educational purposes of learning basic coding etiquette, HTML, Markdown, git, and Github.  It can be cloned or duplicated and used by others._
 
